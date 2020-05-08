@@ -1,0 +1,118 @@
+/* typography */
+h1{
+    font-size: 39px;
+    color:black;
+    font-weight: bold;
+    
+
+}
+
+
+/* layout */
+header{
+    width: 300px;
+    
+    margin-left: 167px;
+    margin-top: 37px;
+    font-weight: bold;
+    
+   
+}
+
+body p {
+    font-family: sans-serif;
+    color: black;
+    
+
+}
+
+
+
+.left_section{
+    width: 150px ;
+    text-align: right;
+    margin-left:  77px;
+    padding-right: 40px;
+    border-right: rgb(223, 220, 220) solid 0.5px;
+    float: left;
+}
+
+.sub_section{
+    font-size: 80%;
+    
+    
+}
+
+main{
+    width: 700px;
+    float: left;
+    margin:  0 170px ;
+    color: black;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+p{
+    font-size: 19px;
+}
+
+.first, .third, .fifth, .sixth, .eighth, .tenth, .seventeenth, .eighteenth{
+    border-top: 9px #332a87 ridge ;
+    margin-bottom: 45px;
+   }
+
+.third{
+    border-top: 9px #332a87 ridge ;
+    margin-bottom: 45px;
+    margin-top: 85px;
+}
+
+.fourth, .seventh, .nineth, .eleventh, .twelfth, .thirteenth, .fourteenth, .fifteenth, .sixteenth, .seventeenth, .nineteenth, .last{
+    border-top: 9px rgb(185, 36, 36) ridge ;
+    margin-bottom: 45px;
+    
+}
+
+.second{
+    border-top: 9px #e4cf11 ridge ;
+    margin-bottom: 45px;
+    
+    
+}
+
+.sub_second{
+    background-color: rgb(238, 227, 240);
+    width: 640px;
+    text-align: left;
+    color: slategray;
+    padding: 20px;
+}
+
+footer{
+    margin-right: 60px;
+    float: right;
+    text-decoration: underline;
+    margin-bottom: 40px;
+
+}
+
+.dance a{
+color: black;
+font-weight: bolder;
+}
+
+.dancer a{
+color: rgb(168, 161, 233) ;
+}
+
+.left_section a{
+    color: gray;
+    
+}
+
+
