@@ -10,8 +10,7 @@ h1{
 
 /* layout */
 header{
-    width: 300px;
-    
+    width: 300px;    
     margin-left: 167px;
     margin-top: 37px;
     font-weight: bold;
@@ -87,7 +86,7 @@ p{
 }
 
 .sub_second{
-    background-color: rgb(238, 227, 240);
+    background-color: blanchedalmond;
     width: 640px;
     text-align: left;
     color: slategray;
